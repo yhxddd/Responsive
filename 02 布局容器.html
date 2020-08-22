@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>布局容器</title>
+    <style>
+        .container{
+            height: 150px;
+            background-color: aqua;
+            margin:0 auto;
+        }
+        /* 此时屏幕多宽container多宽*/
+        /* 下面根据媒体查询改变宽度：*/
+        @media screen and (max-width: 767px) {
+            .container{
+                width:100%;
+            }
+        }
+        @media screen and (min-width: 768px){
+            .container{
+                width: 750px;
+            }
+        }
+        @media screen and (min-width: 992px){
+            .container{
+                width:970px
+            }
+        }
+        @media screen and (min-width: 1200px){
+            .container{
+                width: 1170px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- 响应式布局首先需要一个布局容器-->
+<div class="container"></div>
+</body>
+</html>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8dd2729-08dc-4f4a-a04d-b21dbba51ff9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/响应式布局.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 响应式开发原理.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 布局容器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 响应式导航.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 bootstrap的模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 bootstrap布局容器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 bootstrap栅格系统.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 栅格系统列嵌套.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 栅格系统列偏移.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 栅格系统列排序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 响应式工具.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里百秀/upload/zgboke.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gR05FK2Z6RiwAq0fVnxTJiNPFq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IDEAProject\响应式布局\阿里百秀" />
+      <recent name="C:\IDEAProject\响应式布局\阿里百秀\upload" />
+      <recent name="C:\IDEAProject\响应式布局\阿里百秀\images" />
+      <recent name="C:\IDEAProject\响应式布局\bootstrap" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8dd2729-08dc-4f4a-a04d-b21dbba51ff9" name="Default Changelist" comment="" />
+      <created>1598061912533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598061912533</updated>
+      <workItem from="1598061914891" duration="12486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="117" key="FileChooserDialogImpl" timestamp="1598086296457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="722" y="117" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598086296457" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1598063798998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598063798998" />
+    <state x="643" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598083393375">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="643" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598083393375" />
+  </component>
+</project>

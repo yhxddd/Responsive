@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- 浏览器按照最高版本内核渲染-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入 Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shiv 和 Respond.js 用于让 IE8 支持 HTML5元素和媒体查询 -->
+    <!-- 注意： 如果通过 file://  引入 Respond.js 文件，则该文件无法起效果 -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <title>栅格系统列嵌套</title>
+    <style>
+        .row div{
+            height: 50px;
+            background-color: #5bc0de;
+
+            /* 三个盒子中间要有空隙时  不能加margin*/
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row">
+                <!-- 列嵌套时最好加一个row 可以消除父元素的padding值且子元素高度与父元素相同-->
+                <!-- a  b 分别占父盒子的一半-->
+                <div class="col-md-6">a</div>
+                <div class="col-md-6">b</div>
+            </div>
+        </div>
+        <div class="col-md-4">2</div>
+        <div class="col-md-4">3</div>
+    </div>
+</div>
+</body>
+</html>

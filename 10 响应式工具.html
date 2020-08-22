@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- 浏览器按照最高版本内核渲染-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入 Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shiv 和 Respond.js 用于让 IE8 支持 HTML5元素和媒体查询 -->
+    <!-- 注意： 如果通过 file://  引入 Respond.js 文件，则该文件无法起效果 -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <title>响应式工具</title>
+
+    <!--  利用媒体查询功能
+          .hidden-xs 超小屏下隐藏 其他屏幕下可见
+          .hidden-sm 小屏下隐藏 其他屏幕下可见
+          .hidden-md 中屏下隐藏 其他屏幕下可见
+          .hidden-lg 大屏下隐藏 其他屏幕下可见
+
+          显示: visible
+    -->
+    <style>
+        .row div {
+            height: 100px;
+            background-color: #5bc0de;
+        }
+        .row div:nth-child(3){
+            background-color: silver;
+        }
+        span{
+            font-size: 50px;
+            color:#000000;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-3">1
+            <span class="visible-md">我显示了</span>
+        </div>
+        <div class="col-xs-3">2</div>
+        <div class="col-xs-3 hidden-xs">!!!!!!!!!</div>
+        <div class="col-xs-3">4</div>
+    </div>
+</div>
+</body>
+</html>

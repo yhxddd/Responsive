@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>响应式导航</title>
+    <style>
+        /* 屏幕 >750px 时 按照750px显示 每个盒子宽（750/8）
+            屏幕小于 767px时  布局容器宽度100% 导航栏一行显示3个设置其宽度为33.33% 浮动*/
+        *{
+            margin:0;
+            padding: 0;
+        }
+        ul{
+            list-style: none;
+        }
+        .container{
+            width: 750px;
+            margin: 0 auto;
+        }
+        .container ul li{
+            float: left;
+            width: 93.75px;/* 750 / 8   */
+            height: 30px;
+            background-color: gray;
+            color:#fff;
+        }
+        @media screen and (max-width: 767px) {
+            .container{
+                width: 100%;
+            }
+            .container ul li {
+                width: 33.33%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <ul>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+        <li>导航一</li>
+    </ul>
+</div>
+</body>
+</html>
